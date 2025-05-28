@@ -30,6 +30,6 @@ e_voting/
 3. Ikuti menu navigasi untuk menggunakan aplikasi.
 
 ## Dibuat oleh:
-- [Nama Mahasiswa]
-- [NIM]
-- [Kelas]
+- [NOVIA PUTRI WAARDANI]
+- [20240040089]
+- [TI24H]
