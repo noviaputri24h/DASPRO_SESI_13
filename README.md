@@ -35,7 +35,6 @@ e_voting/
 - TI24H
 
 #
-Dibuat oleh:
 - Nayla Chaesa Pratiwi
 - 20240040175
 - TI24H
